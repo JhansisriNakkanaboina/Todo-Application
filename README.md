@@ -1,0 +1,1 @@
+This todo application provides a user-friendly interface for managing tasks efficiently. Users can easily create, track, and delete tasks with simple interactions like checkboxes and delete buttons. The application also offers a save feature to store tasks locally, ensuring data persistence across sessions.
